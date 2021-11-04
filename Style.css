@@ -97,7 +97,7 @@ input{
 #index1::before {
   content: "";
   position: absolute;
-  background: url('../img/bgs/bg7.jpg') no-repeat center center/cover;
+  background: url('bg7.jpg') no-repeat center center/cover;
   height: 100%;
   width: 100%;
   z-index: -1;
